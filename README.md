@@ -13,7 +13,7 @@ In this README:
 
 ----
 
-<img src="https://raw.githubusercontent.com/medinvention/k8s-sms/master/UI/public/images/demo.gif" width="900">
+<img src="https://raw.githubusercontent.com/medinvention/simple-mesh-service/master/UI/public/images/demo.gif" width="900">
 
 ---- 
 
